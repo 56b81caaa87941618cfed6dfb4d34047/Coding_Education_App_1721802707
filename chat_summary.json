@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721802708",
+        "role": "chat_acknowledge",
+        "content": "User Input: [Insert user message here]\n\nAgent Response: [Insert response here]",
+        "message_id": "guest24072024085641",
+        "timestamp": "24072024085644",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "change the background color red and green",
-        "timestamp": "24072024085552",
-        "message_id": "guest24072024085550"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, working on changing the background to red and green.",
-        "timestamp": "24072024085553",
-        "message_id": "guest24072024085550"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background change to be a solid color or a gradient transition between red and green?\", \"option1\": \"Solid color\", \"option2\": \"Gradient transition\"}, {\"question 2\": \"Should this background color change be applied globally across the entire app or only specific sections/pages?\", \"option1\": \"Globally across the entire app\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 258, \"output_token_count\": 97, \"time_taken\": \"0:00:03.953052\"}",
-        "timestamp": "24072024085557",
-        "message_id": "guest24072024085550"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Syntax highlighting for better code readability\", \"checked\": true}, {\"feature\": \"Dark/Light mode toggle for user comfort\", \"checked\": true}, {\"feature\": \"Customizable workspace including font size and background color\", \"checked\": false}, {\"feature\": \"Interactive coding challenges with instant feedback\", \"checked\": true}, {\"feature\": \"Code snippets library for quick reference\", \"checked\": true}, {\"feature\": \"Progress tracking with achievements and badges\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 114, \"time_taken\": \"0:00:06.681643\"}",
-        "timestamp": "24072024085600",
-        "message_id": "guest24072024085550"
-    },
-    {
-        "role": "user",
-        "content": "add a form with label name and first name",
-        "timestamp": "24072024085618",
-        "message_id": "guest24072024085616"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Working on adding a form with your requested fields.",
-        "timestamp": "24072024085618",
-        "message_id": "guest24072024085616"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form fields to be side by side or one above the other?\", \"option1\": \"Side by side\", \"option2\": \"One above the other\"}, {\"question 2\": \"Should the form include validation for these fields, such as required field checks?\", \"option1\": \"Yes, include validation checks\", \"option2\": \"No, include the fields without validation checks\"}], \"input_token_count\": 321, \"output_token_count\": 96, \"time_taken\": \"0:00:03.898413\"}",
-        "timestamp": "24072024085622",
-        "message_id": "guest24072024085616"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form with label Email\", \"checked\": true}, {\"feature\": \"Add a checkbox for 'I agree to the terms and conditions'\", \"checked\": false}, {\"feature\": \"Add a dropdown for selecting programming languages\", \"checked\": true}, {\"feature\": \"Include a submit button with 'Start Learning' label\", \"checked\": true}, {\"feature\": \"Add a 'Reset Form' button to clear entries\", \"checked\": false}, {\"feature\": \"Include a progress bar for form completion\", \"checked\": false}], \"input_token_count\": 275, \"output_token_count\": 113, \"time_taken\": \"0:00:06.336435\"}",
-        "timestamp": "24072024085625",
-        "message_id": "guest24072024085616"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "make it look like a form",
+        "message_id": "guest24072024085641",
         "timestamp": "24072024085643",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form with label Email\", \"checked\": true}, {\"feature\": \"Add a checkbox for 'I agree to the terms and conditions'\", \"checked\": false}, {\"feature\": \"Add a dropdown for selecting programming languages\", \"checked\": true}, {\"feature\": \"Include a submit button with 'Start Learning' label\", \"checked\": true}, {\"feature\": \"Add a 'Reset Form' button to clear entries\", \"checked\": false}, {\"feature\": \"Include a progress bar for form completion\", \"checked\": false}], \"input_token_count\": 275, \"output_token_count\": 113, \"time_taken\": \"0:00:06.336435\"}",
+        "message_id": "guest24072024085616",
+        "timestamp": "24072024085625",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form fields to be side by side or one above the other?\", \"option1\": \"Side by side\", \"option2\": \"One above the other\"}, {\"question 2\": \"Should the form include validation for these fields, such as required field checks?\", \"option1\": \"Yes, include validation checks\", \"option2\": \"No, include the fields without validation checks\"}], \"input_token_count\": 321, \"output_token_count\": 96, \"time_taken\": \"0:00:03.898413\"}",
+        "message_id": "guest24072024085616",
+        "timestamp": "24072024085622",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a form with your requested fields.",
+        "message_id": "guest24072024085616",
+        "timestamp": "24072024085618",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a form with label name and first name",
+        "message_id": "guest24072024085616",
+        "timestamp": "24072024085618",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Syntax highlighting for better code readability\", \"checked\": true}, {\"feature\": \"Dark/Light mode toggle for user comfort\", \"checked\": true}, {\"feature\": \"Customizable workspace including font size and background color\", \"checked\": false}, {\"feature\": \"Interactive coding challenges with instant feedback\", \"checked\": true}, {\"feature\": \"Code snippets library for quick reference\", \"checked\": true}, {\"feature\": \"Progress tracking with achievements and badges\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 114, \"time_taken\": \"0:00:06.681643\"}",
+        "message_id": "guest24072024085550",
+        "timestamp": "24072024085600",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background change to be a solid color or a gradient transition between red and green?\", \"option1\": \"Solid color\", \"option2\": \"Gradient transition\"}, {\"question 2\": \"Should this background color change be applied globally across the entire app or only specific sections/pages?\", \"option1\": \"Globally across the entire app\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 258, \"output_token_count\": 97, \"time_taken\": \"0:00:03.953052\"}",
+        "message_id": "guest24072024085550",
+        "timestamp": "24072024085557",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, working on changing the background to red and green.",
+        "message_id": "guest24072024085550",
+        "timestamp": "24072024085553",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "change the background color red and green",
+        "message_id": "guest24072024085550",
+        "timestamp": "24072024085552",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "24072024085644",
         "message_id": "guest24072024085641"
     }
 ]
