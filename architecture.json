@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: change the background color red and green\nAI: Sure, working on changing the background to red and green.\nUser: add a form with label name and first name\nAI: Working on adding a form with your requested fields.\nUser: make it look like a form\nThis is the user's current request of changes to be made: make it look like a form"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: change the background color red and green\nAI: Sure, working on changing the background to red and green.\nUser: add a form with label name and first name\nAI: Working on adding a form with your requested fields.\nUser: make it look like a form\nThis is the user's current request of changes to be made: make it look like a form"
     }
 ]
