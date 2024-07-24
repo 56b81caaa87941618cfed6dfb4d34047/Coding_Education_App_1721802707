@@ -110,5 +110,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "simple_cta_component_1721807419.js": {
+        "id": "simple_cta_component-1297ff4f-7b69-b867-571f-8152e0af6281",
+        "name": "simple_cta_component",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
