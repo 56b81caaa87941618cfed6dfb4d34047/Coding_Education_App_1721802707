@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form fields to be side by side or one above the other?\", \"option1\": \"Side by side\", \"option2\": \"One above the other\"}, {\"question 2\": \"Should the form include validation for these fields, such as required field checks?\", \"option1\": \"Yes, include validation checks\", \"option2\": \"No, include the fields without validation checks\"}], \"input_token_count\": 321, \"output_token_count\": 96, \"time_taken\": \"0:00:03.898413\"}",
         "timestamp": "24072024085622",
         "message_id": "guest24072024085616"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a form with label Email\", \"checked\": true}, {\"feature\": \"Add a checkbox for 'I agree to the terms and conditions'\", \"checked\": false}, {\"feature\": \"Add a dropdown for selecting programming languages\", \"checked\": true}, {\"feature\": \"Include a submit button with 'Start Learning' label\", \"checked\": true}, {\"feature\": \"Add a 'Reset Form' button to clear entries\", \"checked\": false}, {\"feature\": \"Include a progress bar for form completion\", \"checked\": false}], \"input_token_count\": 275, \"output_token_count\": 113, \"time_taken\": \"0:00:06.336435\"}",
+        "timestamp": "24072024085625",
+        "message_id": "guest24072024085616"
     }
 ]
