@@ -80,7 +80,7 @@
         "name": "search-input",
         "type": "containerComponent",
         "metadata": {},
-        "w": 4,
+        "w": 5,
         "h": 4,
         "x": 7,
         "y": 23,
