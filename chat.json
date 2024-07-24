@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "User Input: [Insert user message here]\n\nAgent Response: [Insert response here]",
+        "message_id": "guest24072024085641",
+        "timestamp": "24072024085644",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "make it look like a form",
         "message_id": "guest24072024085641",
