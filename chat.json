@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form fields to be side by side or one above the other?\", \"option1\": \"Side by side\", \"option2\": \"One above the other\"}, {\"question 2\": \"Should the form include validation for these fields, such as required field checks?\", \"option1\": \"Yes, include validation checks\", \"option2\": \"No, include the fields without validation checks\"}], \"input_token_count\": 321, \"output_token_count\": 96, \"time_taken\": \"0:00:03.898413\"}",
+        "message_id": "guest24072024085616",
+        "timestamp": "24072024085622",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a form with your requested fields.",
         "message_id": "guest24072024085616",
