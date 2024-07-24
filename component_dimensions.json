@@ -81,7 +81,7 @@
         "type": "containerComponent",
         "metadata": {},
         "w": 5,
-        "h": 4,
+        "h": 8,
         "x": 7,
         "y": 6,
         "i": "4",
@@ -113,7 +113,7 @@
     },
     "simple_cta_component_1721807419.js": {
         "id": "simple_cta_component_1721807419",
-        "name": "simple_cta_component",
+        "name": "simple-cta-component",
         "type": "containerComponent",
         "metadata": {},
         "w": 7,
