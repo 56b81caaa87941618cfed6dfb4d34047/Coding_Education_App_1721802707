@@ -42,5 +42,11 @@
         "content": "Working on adding a form with your requested fields.",
         "timestamp": "24072024085618",
         "message_id": "guest24072024085616"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form fields to be side by side or one above the other?\", \"option1\": \"Side by side\", \"option2\": \"One above the other\"}, {\"question 2\": \"Should the form include validation for these fields, such as required field checks?\", \"option1\": \"Yes, include validation checks\", \"option2\": \"No, include the fields without validation checks\"}], \"input_token_count\": 321, \"output_token_count\": 96, \"time_taken\": \"0:00:03.898413\"}",
+        "timestamp": "24072024085622",
+        "message_id": "guest24072024085616"
     }
 ]
