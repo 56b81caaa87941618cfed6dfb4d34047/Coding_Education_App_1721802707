@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background change to be a solid color or a gradient transition between red and green?\", \"option1\": \"Solid color\", \"option2\": \"Gradient transition\"}, {\"question 2\": \"Should this background color change be applied globally across the entire app or only specific sections/pages?\", \"option1\": \"Globally across the entire app\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 258, \"output_token_count\": 97, \"time_taken\": \"0:00:03.953052\"}",
+        "message_id": "guest24072024085550",
+        "timestamp": "24072024085557",
+        "component_file_name": "simple_cta_component_1721802708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, working on changing the background to red and green.",
         "message_id": "guest24072024085550",
