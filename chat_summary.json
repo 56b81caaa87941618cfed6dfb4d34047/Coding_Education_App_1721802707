@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the background change to be a solid color or a gradient transition between red and green?\", \"option1\": \"Solid color\", \"option2\": \"Gradient transition\"}, {\"question 2\": \"Should this background color change be applied globally across the entire app or only specific sections/pages?\", \"option1\": \"Globally across the entire app\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 258, \"output_token_count\": 97, \"time_taken\": \"0:00:03.953052\"}",
         "timestamp": "24072024085557",
         "message_id": "guest24072024085550"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Syntax highlighting for better code readability\", \"checked\": true}, {\"feature\": \"Dark/Light mode toggle for user comfort\", \"checked\": true}, {\"feature\": \"Customizable workspace including font size and background color\", \"checked\": false}, {\"feature\": \"Interactive coding challenges with instant feedback\", \"checked\": true}, {\"feature\": \"Code snippets library for quick reference\", \"checked\": true}, {\"feature\": \"Progress tracking with achievements and badges\", \"checked\": false}], \"input_token_count\": 212, \"output_token_count\": 114, \"time_taken\": \"0:00:06.681643\"}",
+        "timestamp": "24072024085600",
+        "message_id": "guest24072024085550"
     }
 ]
